@@ -1,0 +1,38 @@
+#questionbubble {
+    background-color: darkgrey;
+    padding: 1vw;
+    margin: 1vw;
+    border-radius: 1vw;
+}
+
+#questiontype {
+    background-color:#8b14ab;
+    color: white;
+    text-align: center;
+    padding: 1vh;
+    font-size: large;
+    border-radius: 1vw;
+    height: 2vh;
+    width: 5vw;
+}
+
+#questionheaderbubble {
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+
+}
+
+#submitbubble {
+    background-color:#8b14ab;
+    color: white;
+    text-align: center;
+    padding: 1vh;
+    font-size: large;
+    border-radius: 1vw;
+    height: 2vh;
+    width: 5vw;
+}
+
+#contextbubble {
+    color: gray;
+}
